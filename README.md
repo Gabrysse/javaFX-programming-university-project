@@ -1,2 +1,2 @@
-# javaFX-university-project
-Simple JavaFX application made for an University Java programming exam
+# JavaFX University project
+Simple JavaFX application made for a Java programming University exam
