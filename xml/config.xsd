@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ParametriConfigurazioneMeteoXML">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="font" type="xs:string" />
+        <xs:element name="dimensione_font" type="xs:int" />
+        <xs:element name="colore_background" type="xs:string" />
+        <xs:element name="numeroRighe_TabellaMeteo" type="xs:int" />
+        <xs:element name="precisione_graficoAndamento" type="xs:int" />
+      </xs:sequence>
+      <xs:attribute name="IPClient" type="xs:string" use="required" />
+      <xs:attribute name="IPServerLog" type="xs:string" use="required" />
+      <xs:attribute name="portaServerLog" type="xs:int" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

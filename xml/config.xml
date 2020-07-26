@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParametriConfigurazioneMeteoXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                 IPClient="127.0.0.1" IPServerLog="127.0.0.1" portaServerLog="4242">
+    <font>Segoe UI</font>
+    <dimensione_font>15</dimensione_font>
+    <colore_background>beige</colore_background>
+    <numeroRighe_TabellaMeteo>10</numeroRighe_TabellaMeteo>
+    <precisione_graficoAndamento>1</precisione_graficoAndamento>
+</ParametriConfigurazioneMeteoXML>

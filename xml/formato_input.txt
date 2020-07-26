@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <DatiMeteo>
+        <data><value></value></data>        
+        <orario><value></value></orario>
+        <temperatura><value></value></temperatura>
+        <umidita><value></value></umidita>
+        <pressione><value></value></pressione>
+        <precipitazioni><value></value></precipitazioni>
+    </DatiMeteo>
+</list>
